@@ -22,7 +22,7 @@ class App extends Component {
 
 
   getData = () => {
-    fetch('colleges.json'
+    fetch(`${ process.env.PUBLIC_URL }/colleges.json`
       , {
         headers: {
           'Content-Type': 'application/json',

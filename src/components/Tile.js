@@ -4,7 +4,7 @@ class Tile extends Component{
 
 
   render(){
-    
+
     const {college,position} = this.props
 
     return(
@@ -13,7 +13,7 @@ class Tile extends Component{
           {/* <div className={position % 2 == 0 ? "image-container" : "image-container second"}  */}
           <div className="image-container flex"
             style={{
-              "background": `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/${college.image}')`
+              "background": `linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('${process.env.PUBLIC_URL}/images/${college.image}')`
             }}>
             {college.promoted?
               <div className="promoted text-white">
@@ -49,15 +49,15 @@ class Tile extends Component{
 
               <div className="college-name-rating flex">
                 <h3 className="college-name text-black">{college.college_name}</h3>
-                <div className="star-ratings-css">
-                  <div className="star-ratings-css-top" style={{"width":`${college.rating*20}%`}}>
+                <div className="star-ratings">
+                  <div className="star-ratings-top" style={{"width":`${college.rating*20}%`}}>
                     <span>&#9733;</span>
                     <span>&#9733;</span>
                     <span>&#9733;</span>
                     <span>&#9733;</span>
                     <span>&#9733;</span>
                   </div>
-                  <div className="star-ratings-css-bottom">
+                  <div className="star-ratings-bottom">
                     <span>&#9733;</span>
                     <span>&#9733;</span>
                     <span>&#9733;</span>
