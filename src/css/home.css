@@ -1,5 +1,5 @@
 body{
-  font-family: sans-serif;
+  font-family: DINPro;
 }
 #home{
   max-width: 1440px;
@@ -60,7 +60,7 @@ body{
   height: 35px;
   position: absolute;
   right:0;
-  top:-15px;
+  top:-17px;
   background:#68a7ff;
 }
 .promoted:before{
@@ -76,8 +76,7 @@ body{
 	line-height: 0;
 }
 .promoted p{
-  margin:10px auto;
-  
+  margin:7px auto;
   font-size: 15px;
   font-weight: 500;
   text-align: center;
@@ -259,8 +258,7 @@ body{
 }
 
 .discounted-fees{
-  margin: 3px 0px;
-  
+  margin: 3px 0px!important;
   font-size: 28.5px;
   font-weight: bold;
   line-height: 0.89;
@@ -269,7 +267,8 @@ body{
 
 .fees-cycle{
   margin: 0;
-  font-family: Myriad Pro;
+  /* font-family: Myriad Pro; */
+  margin-top:3px;
   font-size: 11px;
   line-height: 1.64;
   color: #444444;
@@ -290,9 +289,7 @@ body{
   
 }
 .offer p{
-  height: 13px;
   margin:0;
-  
   font-size: 13.5px;
   font-weight: bold;
   color: #444444;
@@ -326,5 +323,11 @@ body{
 }
 
 
+.login-btn{
+  color:#1999d2;
+}
+.login-btn:hover{
+  cursor: pointer;
+}
 
 

@@ -89,7 +89,7 @@ class Tile extends Component{
 
           <div className="tile-bottom flex">
             <div className="offer">
-              <p>{college.offertext}</p>
+              <p>{college.offertext.slice(0, -6)}<span className="login-btn">{college.offertext.slice(-6,-1)}</span></p>
             </div>
             <div className="amneties flex">
               {college.amenties.map(amneity => <p>{amneity}</p>)}
