@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/colleges/static/css/main.b589963b.chunk.css",
-    "main.js": "/colleges/static/js/main.a9200851.chunk.js",
-    "main.js.map": "/colleges/static/js/main.a9200851.chunk.js.map",
+    "main.css": "/colleges/static/css/main.e2987476.chunk.css",
+    "main.js": "/colleges/static/js/main.7ddb6c59.chunk.js",
+    "main.js.map": "/colleges/static/js/main.7ddb6c59.chunk.js.map",
     "runtime-main.js": "/colleges/static/js/runtime-main.a12802e1.js",
     "runtime-main.js.map": "/colleges/static/js/runtime-main.a12802e1.js.map",
     "static/js/2.19ca2e18.chunk.js": "/colleges/static/js/2.19ca2e18.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.2dc9b6a5.chunk.js": "/colleges/static/js/3.2dc9b6a5.chunk.js",
     "static/js/3.2dc9b6a5.chunk.js.map": "/colleges/static/js/3.2dc9b6a5.chunk.js.map",
     "index.html": "/colleges/index.html",
-    "static/css/main.b589963b.chunk.css.map": "/colleges/static/css/main.b589963b.chunk.css.map",
+    "static/css/main.e2987476.chunk.css.map": "/colleges/static/css/main.e2987476.chunk.css.map",
     "static/js/2.19ca2e18.chunk.js.LICENSE.txt": "/colleges/static/js/2.19ca2e18.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a12802e1.js",
     "static/js/2.19ca2e18.chunk.js",
-    "static/css/main.b589963b.chunk.css",
-    "static/js/main.a9200851.chunk.js"
+    "static/css/main.e2987476.chunk.css",
+    "static/js/main.7ddb6c59.chunk.js"
   ]
 }
