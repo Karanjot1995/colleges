@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/colleges/static/css/main.62fe018f.chunk.css",
+    "main.css": "/colleges/static/css/main.13d751e3.chunk.css",
     "main.js": "/colleges/static/js/main.560fe0a2.chunk.js",
     "main.js.map": "/colleges/static/js/main.560fe0a2.chunk.js.map",
     "runtime-main.js": "/colleges/static/js/runtime-main.a12802e1.js",
@@ -10,14 +10,14 @@
     "static/js/3.2dc9b6a5.chunk.js": "/colleges/static/js/3.2dc9b6a5.chunk.js",
     "static/js/3.2dc9b6a5.chunk.js.map": "/colleges/static/js/3.2dc9b6a5.chunk.js.map",
     "index.html": "/colleges/index.html",
-    "static/css/main.62fe018f.chunk.css.map": "/colleges/static/css/main.62fe018f.chunk.css.map",
+    "static/css/main.13d751e3.chunk.css.map": "/colleges/static/css/main.13d751e3.chunk.css.map",
     "static/js/2.19ca2e18.chunk.js.LICENSE.txt": "/colleges/static/js/2.19ca2e18.chunk.js.LICENSE.txt",
     "static/media/App.css": "/colleges/static/media/DINPro-Regular_13937.a46d9359.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.a12802e1.js",
     "static/js/2.19ca2e18.chunk.js",
-    "static/css/main.62fe018f.chunk.css",
+    "static/css/main.13d751e3.chunk.css",
     "static/js/main.560fe0a2.chunk.js"
   ]
 }
